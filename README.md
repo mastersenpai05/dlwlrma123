@@ -8,14 +8,8 @@
 <h2 align="center">Active Repositories 🥼</h2>
 <p align="center"><a href="https://github.com/dlwlrma123/Pandora-s-Box"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dlwlrma123&repo=Pandora-s-Box&show_owner=false&theme=dark"></a></p>
 <p align="center"><a href="https://github.com/dlwlrma123/Lilac_surya_OSS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dlwlrma123&repo=Lilac_surya_OSS&show_owner=false&theme=dark"></a></p>
-<h2 align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vtjyti5ctizjdp7y24355rbhry" alt="Spotify Now Playing" width="350" />
-
+<p align="center"><a href="https://github.com/dlwlrma123/Lilac_kernel_surya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dlwlrma123&repo=Lilac_kernel_surya&show_owner=false&theme=dark"></a></p>
 <h2 align="center">
 <align="center"><img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif"></p>
 </h2>
-
-
-Credits:
-<p> Thanks for <a href="https://github.com/kutemeikito"> Kutemeikito </a> For About Template</p>
----
-
+<h2 align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vtjyti5ctizjdp7y24355rbhry" alt="Spotify Now Playing" width="350" />
